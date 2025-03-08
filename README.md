@@ -71,13 +71,7 @@
 
 ---
 
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zapper9982&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Zapper9982&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
 
----
 
 ### 🎵 Music While Coding:
 [![Spotify](https://spotify-api-tanmay.vercel.app/api/spotify)](https://open.spotify.com/user/31a6cdarutjjx3c6dfymvop3lspu)
