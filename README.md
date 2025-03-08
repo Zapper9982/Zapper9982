@@ -2,21 +2,20 @@
 <h1 align="center">Hi 👋, I'm Tanmay Deobhankar</h1>
 <h3 align="center">A Passionate Developer from India 🚀</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Full-Stack+Developer;MERN+Stack+%7C+Next.js+%7C+TypeScript;Open-Source+Enthusiast;Passionate+about+Tech+%26+Innovation" alt="Typing SVG" />
-</p>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Full-Stack+Developer;Open-Source+Enthusiast;Passionate+about+Tech+%26+Innovation" alt="Typing SVG" />
+</h3>
 
 ---
 
 ### 🚀 About Me:
 
-- 🔭 I’m currently working on **[AliveDocs](https://github.com/Zapper9982/AliveDocs)**
-- 🌱 I’m currently learning **LiveBlocks, Next.js, Clerk, and much more!**
-- 👯 I’m looking to collaborate on **Dev Projects**
-- 👨‍💻 All of my projects are available on **[GitHub](https://github.com/Zapper9982)**
-- 💬 Ask me about **MERN Stack, Next.js , BlockChain Technology and more **
-- 📫 Reach me at **emailtotanmay@gmail.com**
-- ⚡ Fun fact: **I have a keen interest in photography 📷**
+-  I’m currently learning **BlockChain Technology , Rust , Go  and much more!**
+-  I’m looking to collaborate on **Dev Projects**
+-  All of my projects are available on **[GitHub](https://github.com/Zapper9982)**
+-  Ask me about **MERN Stack, Next.js , BlockChain Technology and more **
+-  Reach me at **emailtotanmay@gmail.com**
+-  Fun fact: **I have a keen interest in photography 📷**
 
 ---
 
@@ -81,7 +80,8 @@
 ---
 
 ### 🎵 Music While Coding:
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/31a6cdarutjjx3c6dfymvop3lspu)
+[![Spotify](https://spotify-api-tanmay.vercel.app/api/spotify)](https://open.spotify.com/user/31a6cdarutjjx3c6dfymvop3lspu)
+
 
 ---
 
