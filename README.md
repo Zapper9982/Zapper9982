@@ -74,7 +74,7 @@
 
 
 ### 🎵 Music While Coding:
-[![Spotify](https://spotify-api-tanmay.vercel.app/api/spotify)](https://open.spotify.com/user/31a6cdarutjjx3c6dfymvop3lspu)
+[![Spotify](https://spotify-api-tanmay.vercel.app/api/spotify)](https://open.spotify.com/user/utisprep29d9z8g9yzcvx6lun?si=a4e323bddca94f0f)
 
 
 ---
