@@ -17,7 +17,7 @@
   <ul style="list-style: none; padding: 0; font-size: 18px; line-height: 1.6; max-width: 600px; margin: auto;">
     <h3>🔭 Currently diving into <strong>Blockchain Technology, Rust, Go, & more!</strong></h3>
     <h3>🤝 Open to collaborating on innovative <strong>Dev Projects</strong></h3>
-    <h3>💬 Ask me about <strong>MERN Stack, Next.js, Blockchain, etc.</strong></h3>
+    <h3>💬 Ask me about <strong>MERN Stack , Backend Logics , Next.js, Blockchain, etc.</strong></h3>
     <h3>📫 Reach me at <strong>emailtotanmay@gmail.com</strong></h3>
     <h3>📷 Avid photographer capturing moments one snap at a time</h3>
   </ul>
