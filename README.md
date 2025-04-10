@@ -7,15 +7,23 @@
   
   <hr>
   
-  <!-- About Me Section -->
-  <h2 style="font-family: 'Comic Sans MS', cursive, sans-serif; color: #FF6347; margin-bottom: 0.5em;">🚀 About Me</h2>
-  <p style="font-size: 18px; line-height: 1.6; max-width: 600px; margin: auto;">
-    Hi there! I'm Tanmay, a passionate developer currently diving deep into <strong>Blockchain Technology, Rust, Go, & more!</strong> 
-    I'm always looking to collaborate on innovative projects and love to talk about <strong>MERN Stack, Backend Logic, Next.js, Blockchain, etc.</strong> 
-    You can reach me at <strong>emailtotanmay@gmail.com</strong>. When I'm not coding, I'm behind the lens capturing the beauty of everyday life.
-  </p>
-  
-  <hr>
+ <!-- Extended About Me Section -->
+<h2 style="font-family: 'Comic Sans MS', cursive, sans-serif; color: #FF6347; margin-bottom: 0.5em;">🚀 About Me</h2>
+<p style="font-size: 18px; line-height: 1.6; max-width: 800px; margin: auto;">
+  Hello there, I'm Tanmay – also known by my GitHub handle <strong>Zapper9982</strong>. I'm a developer with a passion for pushing the boundaries of technology, from <strong>Blockchain</strong> and decentralized applications to the latest in <strong>Rust</strong>, <strong>Go</strong>, and <strong>Next.js</strong> innovations. My journey in tech is driven by curiosity, creativity, and a relentless pursuit of excellence.
+</p>
+<p style="font-size: 18px; line-height: 1.6; max-width: 800px; margin: auto;">
+  I thrive on creating scalable, secure, and efficient systems. Whether I'm architecting the backend logic of complex applications with the <strong>MERN stack</strong> or fine-tuning smart contracts in <strong>Solidity</strong>, I enjoy tackling challenges head-on. My work is all about bridging the gap between robust technical solutions and a seamless user experience.
+</p>
+<p style="font-size: 18px; line-height: 1.6; max-width: 800px; margin: auto;">
+  Beyond coding, I have a creative side that finds expression in photography. Capturing everyday moments through my lens inspires my approach to problem-solving—ever-evolving, always seeking beauty in the details. This blend of technology and art not only defines my projects but also fuels my enthusiasm for continuous learning and experimentation.
+</p>
+<p style="font-size: 18px; line-height: 1.6; max-width: 800px; margin: auto;">
+  I'm constantly on the lookout for innovative projects and collaborations that challenge the status quo. If you're passionate about technology, creative solutions, or just want to geek out about code and photography, let's connect and build something extraordinary together.
+  <br><br>
+  Reach out to me at <strong>emailtotanmay@gmail.com</strong> and join me on this exciting journey in tech and creativity!
+</p>
+
   
   <!-- Social & Connectivity -->
   <h2>🌐 Let's Connect</h2>
