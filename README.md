@@ -114,12 +114,5 @@
   </div>
   
   <hr>
-  
-  <!-- Fun Fact Section -->
-  <h2>✨ Fun Fact of the Day</h2>
-  <p style="font-size: 16px; font-style: italic;">
-    "Code is like humor. When you have to explain it, it’s bad." – Cory House
-  </p>
-  
-  <hr>
+    <hr>
   
