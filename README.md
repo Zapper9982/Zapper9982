@@ -16,7 +16,6 @@
   When I'm not coding, I channel my creativity through photography, finding inspiration in everyday moments. Always up for new challenges and collaborations, feel free to reach out at <strong>emailtotanmay@gmail.com</strong> and let's innovate together!
 </p>
 
-
   
   <!-- Social & Connectivity -->
   <h2>🌐 Let's Connect</h2>
@@ -43,6 +42,7 @@
 
 <h3>🚀 Languages & Frameworks</h3>
 <p>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
@@ -67,6 +67,8 @@
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/Microservices-6DB33F?style=for-the-badge" alt="Microservices">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
@@ -86,11 +88,10 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus">
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
 </p>
 
-  
   <hr>
     
 <!-- GitHub Stats & Trophies -->
@@ -108,11 +109,10 @@
   <!-- Music & Misc -->
   <h2>🎵 Music While Coding</h2>
   <div>
-    <a href="https://open.spotify.com/user/utisprep29d9z8g9yzcvx6lun?si=a4e323bddca94f0f" target="_blank">
+    <a href="https://open.spotify.com/user/utisprep29d9z8g9yzcvx6llun?si=a4e323bddca94f0f" target="_blank">
       <img src="https://spotify-api-tanmay.vercel.app/api/spotify" alt="Spotify Now Playing" style="max-width: 800px;" />
     </a>
   </div>
   
   <hr>
-    <hr>
   
