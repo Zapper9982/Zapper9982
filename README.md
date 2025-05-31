@@ -9,12 +9,25 @@
 
 <!-- About Me -->
 <h2 style="font-family: 'Comic Sans MS', cursive, sans-serif; color: #FF6347;">🚀 About Me</h2>
+
 <p style="font-size: 18px; max-width: 800px; margin: auto;">
-  Hi, I'm Tanmay (aka <strong>Zapper9982</strong>) — a passionate developer who loves building scalable backend systems and exploring new tech like <strong>Blockchain</strong>, <strong>Rust</strong>, <strong>Go</strong>, and <strong>Next.js</strong>. Skilled in <strong>MERN</strong>, <strong>Solidity</strong>, and delivering smooth user experiences.
+  What's up! I'm <strong>Tanmay</strong>, also known as <strong>Zapper9982</strong>, and I'm a dev who's always up for a challenge.
 </p>
+
 <p style="font-size: 18px; max-width: 800px; margin: auto;">
-  When I'm not coding, you’ll find me behind the lens capturing everyday stories. Always open to collaboration — reach me at <strong>emailtotanmay@gmail.com</strong> 📬
+  My passion lies in architecting <strong>scalable backend systems</strong>, and I'm constantly tinkering with new tools like <strong>Blockchain</strong>, <strong>Rust</strong>, <strong>Go</strong>, and <strong>Next.js</strong>.
+  Fluent in <strong>MERN</strong> and <strong>Solidity</strong>, I strive to make sure users have a fantastic experience.
 </p>
+
+<p style="font-size: 18px; max-width: 800px; margin: auto;">
+  When I'm not glued to my keyboard, I'm out and about, <strong>snapping photos</strong> and <strong>finding beauty in the everyday</strong>.
+</p>
+
+<p style="font-size: 18px; max-width: 800px; margin: auto;">
+  Got a project in mind or just want to chat tech?<br>
+  📧 <strong>Shoot me an email:</strong> <a href="mailto:emailtotanmay@gmail.com">emailtotanmay@gmail.com</a>
+</p>
+
 
 <!-- Social Links -->
 <h2>🌐 Let's Connect</h2>
