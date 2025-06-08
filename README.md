@@ -1,19 +1,24 @@
 <div align="center">
 
 <div style="display: flex; align-items: center; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" style="height: 190px;" />
-  <img src="https://github.com/user-attachments/assets/235b2d8f-606a-4df3-ae1c-9650e9b0b718" style="height: 190px;" />
+  <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" style="height: 180px;" />
+  <img src="https://github.com/user-attachments/assets/235b2d8f-606a-4df3-ae1c-9650e9b0b718" style="height: 180px;" />
 </div>
 
 ---
 
 ### 🚀 About Me
 
-Hey, I’m **Tanmay Deobhankar** (online as **Zapper9982**) — a curious developer driven by a passion for building impactful tools and exploring new technologies. My interests span across **Web Development**, where I focus on creating clean, user-first experiences; **Web3**, where I dive into decentralization and smart contracts; **DevOps**, where I enjoy automating workflows and scaling systems; and **Generative AI**, where I experiment with LLMs to solve real-world problems. Beyond tech, I find joy in **photography** and capturing the beauty of everyday moments. If you’d like to connect or collaborate, feel free to reach out at [emailtotanmay@gmail.com](mailto:emailtotanmay@gmail.com).
+--- Perhaps a curious developer ? passionate about **Web Development**, **Web3**, **DevOps**, and **Generative AI**. ---
+<br><br>
+ I love building useful tools, automating systems, and experimenting with LLMs.  
+<br><br>
+Outside of code, you’ll find me behind a camera, capturing everyday beauty.  
+<br><br>
+📬 Reach out: [emailtotanmay@gmail.com](mailto:emailtotanmay@gmail.com)
 
-
-
-### 🌐 Connect
+---
+### 🌐 Connect with me!
 
 <p align="center">
   <a href="https://twitter.com/tanmay9982" target="_blank">
