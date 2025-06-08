@@ -1,91 +1,63 @@
 <div align="center">
 
-<!-- Animated Banner -->
-<img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" alt="Cool Animated GIF" style="max-width:100%; height:auto;" />
-<br>
-<img width="1223" alt="Banner Image" src="https://github.com/user-attachments/assets/235b2d8f-606a-4df3-ae1c-9650e9b0b718" />
+<div style="display: flex; align-items: center; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" style="height: 190px;" />
+  <img src="https://github.com/user-attachments/assets/235b2d8f-606a-4df3-ae1c-9650e9b0b718" style="height: 190px;" />
+</div>
 
-<hr>
+---
 
-<!-- About Me -->
-<h2 style="font-family: 'Comic Sans MS', cursive, sans-serif; color: #FF6347;">🚀 About Me</h2>
+### 🚀 About Me
 
-<p style="font-size: 18px; max-width: 800px; margin: auto;">
-  What's up! I'm <strong>Tanmay</strong>, also known as <strong>Zapper9982</strong>, and I'm a dev who's always up for a challenge.
+Hey, I’m **Tanmay Deobhankar** (online as **Zapper9982**) — a curious developer driven by a passion for building impactful tools and exploring new technologies. My interests span across **Web Development**, where I focus on creating clean, user-first experiences; **Web3**, where I dive into decentralization and smart contracts; **DevOps**, where I enjoy automating workflows and scaling systems; and **Generative AI**, where I experiment with LLMs to solve real-world problems. Beyond tech, I find joy in **photography** and capturing the beauty of everyday moments. If you’d like to connect or collaborate, feel free to reach out at [emailtotanmay@gmail.com](mailto:emailtotanmay@gmail.com).
+
+
+
+### 🌐 Connect
+
+<p align="center">
+  <a href="https://twitter.com/tanmay9982" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/got.tan.in.may" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://codeforces.com/profile/zapper9982" target="_blank">
+    <img src="https://skillicons.dev/icons?i=cpp" alt="Codeforces (C++)" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/tanmay-deobhankar" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
 </p>
 
-<p style="font-size: 18px; max-width: 800px; margin: auto;">
-  My passion lies in architecting <strong>scalable backend systems</strong>, and I'm constantly tinkering with new tools like <strong>Blockchain</strong>, <strong>Rust</strong>, <strong>Go</strong>, and <strong>Next.js</strong>.
-  Fluent in <strong>MERN</strong> and <strong>Solidity</strong>, I strive to make sure users have a fantastic experience.
-</p>
 
-<p style="font-size: 18px; max-width: 800px; margin: auto;">
-  When I'm not glued to my keyboard, I'm out and about, <strong>snapping photos</strong> and <strong>finding beauty in the everyday</strong>.
-</p>
+---
 
-<p style="font-size: 18px; max-width: 800px; margin: auto;">
-  Got a project in mind or just want to chat tech?<br>
-  📧 <strong>Shoot me an email:</strong> <a href="mailto:emailtotanmay@gmail.com">emailtotanmay@gmail.com</a>
-</p>
-
-
-<!-- Social Links -->
-<h2>🌐 Let's Connect</h2>
-<p>
-  <a href="https://twitter.com/tanmay9982" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://instagram.com/got.tan.in.may" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://codeforces.com/profile/zapper9982" target="_blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/tanmay-deobhankar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
-
-<hr>
-
-<!-- Tech Stack -->
-<h2>🛠️ Tech Stack</h2>
-
-<h3>🚀 Languages & Frameworks</h3>
-<img src="https://skillicons.dev/icons?i=java,c,cpp,js,ts,python,rust,go,solidity" />
-
-<h3>🎨 Frontend</h3>
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,angular" />
-
-<h3>🔥 Backend & Databases</h3>
+### 🛠️ Tech Stack
+ 
+<img src="https://skillicons.dev/icons?i=java,cpp,python,js,ts,rust,go,solidity" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,angular" />
 <img src="https://skillicons.dev/icons?i=nodejs,express,spring,mongodb,postgres,mysql" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,postman,figma,graphql,githubactions,prometheus" />
 
-<h3>⚙️ Tools & More</h3>
-<img src="https://skillicons.dev/icons?i=figma,git,github,postman" />
+---
 
-<h3>🚀 Additional Technologies</h3>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,graphql,prometheus,githubactions" />
+### 📈 GitHub Stats
 
-<hr>
+<img src="https://github-readme-stats.vercel.app/api?username=Zapper9982&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Zapper9982&theme=tokyonight&hide_border=true" />
 
-<!-- GitHub Stats -->
-<h2>📊 GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zapper9982&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Zapper9982&theme=tokyonight&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zapper9982&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zapper9982&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Zapper9982&theme=tokyonight" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Zapper9982&theme=discord" />
-</p>
+---
 
-<hr>
+### 🎧 Now Playing
 
-<!-- Music -->
-<h2>🎵 Music While Coding</h2>
-<a href="https://open.spotify.com/user/utisprep29d9z8g9yzcvx6llun?si=a4e323bddca94f0f" target="_blank">
-  <img src="https://spotify-api-tanmay.vercel.app/api/spotify" alt="Spotify Now Playing" style="max-width: 800px;" />
-</a>
+[![Spotify](https://spotify-api-tanmay.vercel.app/api/spotify)](https://open.spotify.com/user/utisprep29d9z8g9yzcvx6llun)
 
-<hr>
+---
 
-<!-- Footer or Quote -->
-<blockquote><em>“Code is like humor. When you have to explain it, it’s bad.” – Cory House</em></blockquote>
+> _“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
 
 </div>
