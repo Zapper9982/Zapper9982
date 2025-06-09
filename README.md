@@ -63,6 +63,6 @@ Outside of code, you’ll find me behind a camera, capturing everyday beauty.
 
 ---
 
-> _“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
+
 
 </div>
