@@ -1,21 +1,24 @@
 <div align="center">
 
-<div style="display: flex; align-items: center; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" style="height: 180px;" />
-  <img src="https://github.com/user-attachments/assets/235b2d8f-606a-4df3-ae1c-9650e9b0b718" style="height: 180px;" />
+<div style="display: flex; align-items: center; justify-content: center; flex-wrap: wrap;">
+  <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" style="height: 150px;" />
+  <img src="https://github.com/user-attachments/assets/235b2d8f-606a-4df3-ae1c-9650e9b0b718" style="height: 150px;" />
 </div>
 
 ---
+<div style="backdrop-filter: blur(10px); background: rgba(255, 255, 255, 0.1); border-radius: 20px; padding: 20px; max-width: 700px; margin: 20px auto; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37); border: 1px solid rgba(255, 255, 255, 0.18);">
 
 ### 🚀 About Me
 
---- Perhaps a curious developer ? passionate about **Web Development**, **Web3**, **DevOps**, and **Generative AI**. ---
+Perhaps a curious developer? Passionate about **Web Development**, **Web3**, **DevOps**, and **Generative AI**.  
 <br><br>
- I love building useful tools, automating systems, and experimenting with LLMs.  
+I love building useful tools, automating systems, and experimenting with LLMs.  
 <br><br>
 Outside of code, you’ll find me behind a camera, capturing everyday beauty.  
 <br><br>
 📬 Reach out: [emailtotanmay@gmail.com](mailto:emailtotanmay@gmail.com)
+
+</div>
 
 ---
 ### 🌐 Connect with me!
